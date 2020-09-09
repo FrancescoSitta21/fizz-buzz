@@ -1,0 +1,19 @@
+/*Reset*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*Fine reset*/
+
+/*General*/
+.center {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.center ul {
+  list-style: none;
+  font-size: 50px;
+}
+/*Fine general*/
